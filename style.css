@@ -1,0 +1,46 @@
+#contents {
+    padding : 20px 40px;
+}
+#btn_draw {
+    font-size : 16px;
+}
+.draw_bd {
+    max-width: 960px;
+    margin : 0 auto;
+}
+.header {
+    margin-top: 24px;
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #eee;
+}
+.options {
+    padding : 24px 0px;
+}
+body, input, select, option {
+    font-family : '나눔고딕',NanumGothic,ng,'돋움',dotum,Helvetica,'Apple SD Gothic Neo',sans-serif;
+    font-size: 14px;
+}
+.underline {
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+}
+p {
+    font-size : 16px;
+    margin-left: 5px;
+}
+div {
+    display : block;
+}
+h1 {
+    font-family : Nanumgothic;
+    margin : 0;
+    color : #3a3a3a;
+    font-size : 24px;
+    font-weight: 700;
+}
+h2 {
+    font-size : 16px;
+    font-weight : 600;
+}
